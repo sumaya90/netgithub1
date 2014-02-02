@@ -15,7 +15,7 @@
         <h1>ntebeans github project </h1>
         <p> rrrrrr</p>
         <p> rrrrrr</p>
-        <p> rrrrrr</p>
-        <p> rrrrrr</p>
+     
+     
     </body>
 </html>
